@@ -1,0 +1,5 @@
+A, Type - A
+B, Type - B
+C, Type - C
+D, Type - D
+E, Type - E
