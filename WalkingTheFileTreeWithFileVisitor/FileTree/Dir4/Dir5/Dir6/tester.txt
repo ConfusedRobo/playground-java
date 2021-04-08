@@ -1,8 +1,0 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Pellentesque vitae ullamcorper risus, et aliquam eros.
-Praesent sit amet nibh efficitur, hendrerit sapien eget, ultrices magna.
-Suspendisse potenti. Vivamus in enim tristique, ornare odio id, congue ex.
-Cras porttitor nibh nec odio hendrerit sagittis.
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-Pellentesque eget viverra dolor. Nam sodales justo nec lectus consectetur,
-sed dictum lacus tincidunt.
